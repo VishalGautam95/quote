@@ -1,0 +1,19 @@
+#adjust{
+    text-align: center;
+}
+#day{
+    font-style:impact;
+    font-size: 50px;
+}
+#new{
+    padding: 30px;
+    width: 280px;
+    background-color: blue;
+    color: whitesmoke;
+}
+#new:hover{
+    background-color: aqua;
+}
+#demo,#demo1{
+font-size: 60px;
+}
